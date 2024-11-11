@@ -22,3 +22,7 @@ Este projeto utiliza Docker e Docker Compose para orquestrar os contêineres de 
 - CRUD php: `http://localhost:80`
 - phpMyAdmin: `http://localhost:8000`
 - Portainer: `http://localhost:9000`
+
+
+## Video explicativo
+- https://www.youtube.com/watch?v=qmw4rD53A-w&t=2s
